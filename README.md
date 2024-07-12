@@ -1,5 +1,7 @@
 # SOLID_Principles
-The SOLID principles are a set of five design principles in object-oriented programming and software engineering that help developers create more maintainable, understandable, and flexible software. These principles were introduced by Robert C. Martin and are commonly used in agile software development. Here’s a brief overview of each principle:
+The SOLID principles are a set of five design principles in object-oriented programming and software engineering that help developers create more maintainable, understandable, and flexible software. These principles were introduced by Robert C. Martin and are commonly used in agile software development.
+
+Here’s a brief overview of each principle:
 
 1 Single Responsibility Principle (SRP): 
 A class should have only one reason to change, meaning it should have only one job or responsibility. This principle encourages developers to design classes that focus on a single task or piece of functionality.
